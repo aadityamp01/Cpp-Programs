@@ -1,5 +1,5 @@
 # C++ Programs
-Important practice questions of C++ for preparation
+Important practice questions and implemented projects of C++ for preparation
 
 ### Questions sources - 
 Geeksforgeeks, Hackerrank, Codechef
