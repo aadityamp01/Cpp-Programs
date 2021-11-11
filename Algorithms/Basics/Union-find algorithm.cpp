@@ -1,5 +1,5 @@
 // Union find algorithm
-
+/*
 Union - find applications involve manipulating objects of all types.
 • Computers in a network.
 • Web pages on the Internet.
@@ -8,7 +8,7 @@ Union - find applications involve manipulating objects of all types.
 • Pixels in a digital photo.
 • Metallic sites in a composite system.
 
-
+*/
 
 // A union by rank and path compression based program to
 // detect cycle in a graph
@@ -139,9 +139,9 @@ int main()
 	graph->edge[2].dest = 2;
 
 	if (isCycle(graph))
-		printf("Graph contains cycle");
+		cout << "Graph contains cycle";
 	else
-		printf("Graph doesn't contain cycle");
+		cout << "Graph doesn't contain cycle";
 
 	return 0;
 }
